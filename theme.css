@@ -68,12 +68,12 @@
   --text-title-h6: #A692D6;
 
   /* Canvas color palette (Red, Orange, Yellow, Green, Cyan, Purple) */
-  --canvas-color-1: 227,  95,  91;
-  --canvas-color-2: 232, 162,  92;
-  --canvas-color-3: 230, 220, 130;
-  --canvas-color-4: 141, 199, 118;
-  --canvas-color-5: 110, 184, 214;
-  --canvas-color-6: 166, 146, 214;
+  --canvas-color-1: rgb(227,  95,  91);
+  --canvas-color-2: rgb(232, 162,  92);
+  --canvas-color-3: rgb(230, 220, 130);
+  --canvas-color-4: rgb(141, 199, 118);
+  --canvas-color-5: rgb(110, 184, 214);
+  --canvas-color-6: rgb(166, 146, 214);
 
   --text-link:        var(--text-accent);
   --markup-code:      #E8A25C;          /* Orange — code emphasis */
@@ -163,12 +163,12 @@
   --text-title-h5: #6E601A;             /* Yellow */
   --text-title-h6: #5B4A9E;             /* Purple */
 
-  --canvas-color-1: 181,  61,  58;
-  --canvas-color-2: 143,  92,  24;
-  --canvas-color-3: 110,  96,  26;
-  --canvas-color-4:  58, 101,  37;
-  --canvas-color-5:  43, 106, 138;
-  --canvas-color-6:  91,  74, 158;
+  --canvas-color-1: rgb(181,  61,  58);
+  --canvas-color-2: rgb(143,  92,  24);
+  --canvas-color-3: rgb(110,  96,  26);
+  --canvas-color-4:  rgb(58, 101,  37);
+  --canvas-color-5:  rgb(43, 106, 138);
+  --canvas-color-6:  rgb(91,  74, 158);
 
   --text-link:        var(--text-accent);
   --markup-code:      #8F5C18;          /* Orange */
